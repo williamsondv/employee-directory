@@ -8,8 +8,9 @@ body {
 }
 
 .search-bar {
-    border-radius: 10%;
     margin-bottom: 1em;
+    height: 38px;
+    font-size: 15px;
 }
 
 /* main styles */
